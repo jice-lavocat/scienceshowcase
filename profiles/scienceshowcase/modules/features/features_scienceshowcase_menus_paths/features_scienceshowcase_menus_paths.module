@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Features Scienceshowcase Menus-Paths feature.
+ */
+
+include_once 'features_scienceshowcase_menus_paths.features.inc';

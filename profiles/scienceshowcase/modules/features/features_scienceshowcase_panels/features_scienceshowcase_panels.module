@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Features Scienceshowcase Panels feature.
+ */
+
+include_once 'features_scienceshowcase_panels.features.inc';
