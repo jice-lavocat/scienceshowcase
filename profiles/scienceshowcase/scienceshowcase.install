@@ -1,0 +1,28 @@
+<?php
+/**
+ * @file.
+ */
+
+/**
+ * Implements hook_install().
+ *
+ * Perform actions to set up the site for this profile.
+ */
+function scienceshowcase_install() {
+  // Disable user register.
+  variable_set('user_register', USER_REGISTER_VISITORS_ADMINISTRATIVE_APPROVAL);
+  
+  
+  // Change theme.
+  theme_enable(array('science_gordon'));
+  variable_set('theme_default', 'science_gordon');
+
+  // Enable the admin theme.
+  db_update('system')
+    ->fields(array('status' => 1))
+    ->condition('type', 'theme')
+    ->condition('name', 'seven')
+    ->execute();
+  variable_set('admin_theme', 'seven');
+  variable_set('node_admin_theme', '1');
+}

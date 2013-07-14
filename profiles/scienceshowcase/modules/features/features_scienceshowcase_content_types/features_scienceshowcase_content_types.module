@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Features Scienceshowcase Content-types feature.
+ */
+
+include_once 'features_scienceshowcase_content_types.features.inc';

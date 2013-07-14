@@ -1,0 +1,39 @@
+/* Div */
+#info_people{
+	width:400px; 
+position:relative;
+left: 200px;
+top: -80px;
+margin-top : 30px;
+height: 40px;
+}
+
+#photo_people{
+	width:100px; 
+position:relative;
+height: 50px;
+
+}
+
+#photo_people .field{
+width: 85px;
+margin : 0 auto;
+}
+
+
+/*Fields */
+ #email{
+	background: white url(../img/icon_email.gif) no-repeat 0px 3px;
+	padding : 3px 0 3px 20px;
+}
+
+ #phone{
+	background: white url(../img/icon_phone.gif) no-repeat 0px 3px;
+	padding : 3px 0 3px 20px;
+}
+ #website{
+	background: white url(../img/icon_link.png) no-repeat 0px 4px;
+	
+	padding : 3px 0 3px 20px;
+}
+

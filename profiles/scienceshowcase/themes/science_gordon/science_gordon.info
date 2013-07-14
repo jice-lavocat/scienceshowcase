@@ -1,0 +1,38 @@
+; $Id$
+name = science_Gordon
+description = Tableness theme for Drupal CMS by <a href="http://premiumcmsthemes.com">Premium CMS Themes<a>.
+core = 7.x
+engine = phptemplate
+
+; Css files
+stylesheets[all][] = css/reset.css
+stylesheets[all][] = css/style.css
+stylesheets[all][] = css/people.css
+stylesheets[all][] = css/publication.css
+stylesheets[all][] = css/research_topic.css
+stylesheets[all][] = css/collaboration.css
+
+; JavaScript files
+scripts[] = js/scripts.js
+
+; Regions
+regions[search_box] = Search box
+regions[sidebar_first] = Left sidebar
+regions[sidebar_second] = Right sidebar
+regions[content] = Content
+regions[help] = Help
+regions[footer] = Footer
+regions[front_top] = Front top
+
+; Features
+features[] = logo
+features[] = slogan
+features[] = favicon
+features[] = main_menu
+features[] = secondary_menu
+; Information added by drupal.org packaging script on 2011-10-10
+;version = "7.x-1.6"
+;core = "7.x"
+;project = "gordon"
+;datestamp = "1318234903"
+

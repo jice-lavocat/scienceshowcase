@@ -1,0 +1,106 @@
+name = "Science Showcase"
+description = "Drupal 7 Scientific Showcase install profile."
+version = "7.x-1.0"
+core = "7.x"
+
+; Core
+dependencies[] = "page_manager"
+dependencies[] = "image"
+dependencies[] = "path"
+dependencies[] = "search"
+dependencies[] = "menu"
+dependencies[] = "node"
+dependencies[] = "update"
+dependencies[] = "user"
+dependencies[] = "shortcut"
+dependencies[] = "system"
+dependencies[] = "taxonomy"
+
+; Core - Field
+dependencies[] = "field_ui"
+dependencies[] = "field"
+dependencies[] = "field_sql_storage"
+
+; Core - Field types
+dependencies[] = "file"
+dependencies[] = "list"
+dependencies[] = "number"
+dependencies[] = "filter"
+dependencies[] = "number"
+dependencies[] = "options"
+dependencies[] = "text"
+dependencies[] = "email"
+dependencies[] = "link"
+dependencies[] = "node_reference"
+dependencies[] = "references"
+dependencies[] = "user_reference"
+
+; Core - Content
+dependencies[] = "block"
+dependencies[] = "contact"
+dependencies[] = "translation"
+dependencies[] = "contextual"
+
+; Core - UI
+dependencies[] = "dashboard"
+dependencies[] = "overlay"
+;dependencies[] = "toolbar"
+
+dependencies[] = "ctools"
+dependencies[] = "ctools_custom_content"
+dependencies[] = "features"
+dependencies[] = "views_content"
+dependencies[] = "locale"
+
+; Data/Time
+dependencies[] = "date"
+dependencies[] = "date_all_day"
+dependencies[] = "date_api"
+dependencies[] = "date_views"
+
+; Multilingual
+dependencies[] = "i18n_block"
+dependencies[] = "i18n_field"
+dependencies[] = "i18n"
+dependencies[] = "i18n_menu"
+dependencies[] = "i18n_node"
+dependencies[] = "i18n_path"
+dependencies[] = "i18n_string"
+dependencies[] = "i18n_redirect"
+dependencies[] = "i18n_translation"
+dependencies[] = "i18n_variable"
+
+; Other
+dependencies[] = "backup_migrate"
+dependencies[] = "invisimail"
+dependencies[] = "libraries"
+
+; Panels
+dependencies[] = "panels_node"
+dependencies[] = "panels"
+
+; UI
+dependencies[] = "wysiwyg"
+dependencies[] = "admin_menu"
+
+; Variable
+dependencies[] = "variable"
+dependencies[] = "variable_admin"
+dependencies[] = "variable_realm"
+dependencies[] = "variable_store"
+
+; Features and Strongarm
+dependencies[] = "features"
+dependencies[] = "strongarm"
+
+; Views
+dependencies[] = "views"
+dependencies[] = "views_slideshow"
+dependencies[] = "views_slideshow_cycle"
+dependencies[] = "views_ui"
+
+; Theme
+;dependencies[] = "science_gordon"
+
+; Features
+dependencies[] = "features_scienceshowcase_content_types"

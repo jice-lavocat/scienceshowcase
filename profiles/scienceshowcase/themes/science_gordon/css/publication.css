@@ -1,0 +1,35 @@
+/* Div */
+
+span .authors{
+/*color:lightskyblue;*/
+font-style: italic;
+}
+span .title{
+/*color:lightskyblue;*/
+text-decoration:underline;
+font-weight:normal;
+}
+
+span .titre{
+/*color:lightskyblue;*/
+text-decoration:underline;
+font-weight:normal;
+}
+/*#title, #journal, #volume, #year{
+float:left;
+width: 100%;
+}*/
+
+
+span .volume{
+font-weight:bold;
+}
+
+div #photo_topic{
+float: left;
+padding: 10px;
+}
+
+p{
+text-align: justify;
+}
