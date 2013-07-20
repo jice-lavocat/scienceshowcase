@@ -29,16 +29,16 @@ function features_scienceshowcase_blocks_default_fe_block_settings() {
         'theme' => 'bartik',
         'weight' => 0,
       ),
-      'gordon' => array(
+      'science_showcase' => array(
         'region' => 'footer',
         'status' => 1,
-        'theme' => 'gordon',
+        'theme' => 'science_showcase',
         'weight' => -14,
       ),
-      'gordon_warm' => array(
+      'science_showcase_warm' => array(
         'region' => 'footer',
         'status' => 1,
-        'theme' => 'gordon_warm',
+        'theme' => 'science_showcase_warm',
         'weight' => 0,
       ),
       'seven' => array(
@@ -69,16 +69,16 @@ function features_scienceshowcase_blocks_default_fe_block_settings() {
         'theme' => 'bartik',
         'weight' => 0,
       ),
-      'gordon' => array(
+      'science_showcase' => array(
         'region' => 'footer',
         'status' => 1,
-        'theme' => 'gordon',
+        'theme' => 'science_showcase',
         'weight' => -12,
       ),
-      'gordon_warm' => array(
+      'science_showcase_warm' => array(
         'region' => 'footer',
         'status' => 1,
-        'theme' => 'gordon_warm',
+        'theme' => 'science_showcase_warm',
         'weight' => 0,
       ),
       'seven' => array(
@@ -109,16 +109,16 @@ function features_scienceshowcase_blocks_default_fe_block_settings() {
         'theme' => 'bartik',
         'weight' => 0,
       ),
-      'gordon' => array(
+      'science_showcase' => array(
         'region' => 'footer',
         'status' => 1,
-        'theme' => 'gordon',
+        'theme' => 'science_showcase',
         'weight' => -13,
       ),
-      'gordon_warm' => array(
+      'science_showcase_warm' => array(
         'region' => '',
         'status' => 0,
-        'theme' => 'gordon_warm',
+        'theme' => 'science_showcase_warm',
         'weight' => 0,
       ),
       'seven' => array(
@@ -149,16 +149,16 @@ function features_scienceshowcase_blocks_default_fe_block_settings() {
         'theme' => 'bartik',
         'weight' => 0,
       ),
-      'gordon' => array(
+      'science_showcase' => array(
         'region' => 'footer',
         'status' => 1,
-        'theme' => 'gordon',
+        'theme' => 'science_showcase',
         'weight' => 0,
       ),
-      'gordon_warm' => array(
+      'science_showcase_warm' => array(
         'region' => '',
         'status' => 0,
-        'theme' => 'gordon_warm',
+        'theme' => 'science_showcase_warm',
         'weight' => 0,
       ),
       'seven' => array(
@@ -189,16 +189,16 @@ function features_scienceshowcase_blocks_default_fe_block_settings() {
         'theme' => 'bartik',
         'weight' => -1,
       ),
-      'gordon' => array(
+      'science_showcase' => array(
         'region' => 'search_box',
         'status' => 1,
-        'theme' => 'gordon',
+        'theme' => 'science_showcase',
         'weight' => -8,
       ),
-      'gordon_warm' => array(
+      'science_showcase_warm' => array(
         'region' => 'search_box',
         'status' => 1,
-        'theme' => 'gordon_warm',
+        'theme' => 'science_showcase_warm',
         'weight' => -8,
       ),
       'seven' => array(
@@ -229,16 +229,16 @@ function features_scienceshowcase_blocks_default_fe_block_settings() {
         'theme' => 'bartik',
         'weight' => 0,
       ),
-      'gordon' => array(
+      'science_showcase' => array(
         'region' => 'help',
         'status' => 1,
-        'theme' => 'gordon',
+        'theme' => 'science_showcase',
         'weight' => 0,
       ),
-      'gordon_warm' => array(
+      'science_showcase_warm' => array(
         'region' => 'help',
         'status' => 1,
-        'theme' => 'gordon_warm',
+        'theme' => 'science_showcase_warm',
         'weight' => 0,
       ),
       'seven' => array(
@@ -269,16 +269,16 @@ function features_scienceshowcase_blocks_default_fe_block_settings() {
         'theme' => 'bartik',
         'weight' => 0,
       ),
-      'gordon' => array(
+      'science_showcase' => array(
         'region' => 'content',
         'status' => 1,
-        'theme' => 'gordon',
+        'theme' => 'science_showcase',
         'weight' => -15,
       ),
-      'gordon_warm' => array(
+      'science_showcase_warm' => array(
         'region' => 'content',
         'status' => 1,
-        'theme' => 'gordon_warm',
+        'theme' => 'science_showcase_warm',
         'weight' => -11,
       ),
       'seven' => array(
@@ -309,16 +309,16 @@ function features_scienceshowcase_blocks_default_fe_block_settings() {
         'theme' => 'bartik',
         'weight' => 0,
       ),
-      'gordon' => array(
+      'science_showcase' => array(
         'region' => 'sidebar_first',
         'status' => 1,
-        'theme' => 'gordon',
+        'theme' => 'science_showcase',
         'weight' => -15,
       ),
-      'gordon_warm' => array(
+      'science_showcase_warm' => array(
         'region' => 'sidebar_first',
         'status' => 1,
-        'theme' => 'gordon_warm',
+        'theme' => 'science_showcase_warm',
         'weight' => -14,
       ),
       'seven' => array(
@@ -349,16 +349,16 @@ function features_scienceshowcase_blocks_default_fe_block_settings() {
         'theme' => 'bartik',
         'weight' => 0,
       ),
-      'gordon' => array(
+      'science_showcase' => array(
         'region' => 'sidebar_first',
         'status' => 1,
-        'theme' => 'gordon',
+        'theme' => 'science_showcase',
         'weight' => -14,
       ),
-      'gordon_warm' => array(
+      'science_showcase_warm' => array(
         'region' => 'sidebar_first',
         'status' => 1,
-        'theme' => 'gordon_warm',
+        'theme' => 'science_showcase_warm',
         'weight' => -13,
       ),
       'seven' => array(
@@ -389,16 +389,16 @@ function features_scienceshowcase_blocks_default_fe_block_settings() {
         'theme' => 'bartik',
         'weight' => 0,
       ),
-      'gordon' => array(
+      'science_showcase' => array(
         'region' => '',
         'status' => 0,
-        'theme' => 'gordon',
+        'theme' => 'science_showcase',
         'weight' => 0,
       ),
-      'gordon_warm' => array(
+      'science_showcase_warm' => array(
         'region' => '',
         'status' => 0,
-        'theme' => 'gordon_warm',
+        'theme' => 'science_showcase_warm',
         'weight' => 0,
       ),
       'seven' => array(
@@ -429,16 +429,16 @@ function features_scienceshowcase_blocks_default_fe_block_settings() {
         'theme' => 'bartik',
         'weight' => 0,
       ),
-      'gordon' => array(
+      'science_showcase' => array(
         'region' => '',
         'status' => 0,
-        'theme' => 'gordon',
+        'theme' => 'science_showcase',
         'weight' => 1,
       ),
-      'gordon_warm' => array(
+      'science_showcase_warm' => array(
         'region' => '',
         'status' => 0,
-        'theme' => 'gordon_warm',
+        'theme' => 'science_showcase_warm',
         'weight' => 1,
       ),
       'seven' => array(
@@ -469,16 +469,16 @@ function features_scienceshowcase_blocks_default_fe_block_settings() {
         'theme' => 'bartik',
         'weight' => 0,
       ),
-      'gordon' => array(
+      'science_showcase' => array(
         'region' => '',
         'status' => 0,
-        'theme' => 'gordon',
+        'theme' => 'science_showcase',
         'weight' => 2,
       ),
-      'gordon_warm' => array(
+      'science_showcase_warm' => array(
         'region' => '',
         'status' => 0,
-        'theme' => 'gordon_warm',
+        'theme' => 'science_showcase_warm',
         'weight' => 2,
       ),
       'seven' => array(
@@ -512,16 +512,16 @@ function features_scienceshowcase_blocks_default_fe_block_settings() {
         'theme' => 'bartik',
         'weight' => 0,
       ),
-      'gordon' => array(
+      'science_showcase' => array(
         'region' => 'content',
         'status' => 1,
-        'theme' => 'gordon',
+        'theme' => 'science_showcase',
         'weight' => -14,
       ),
-      'gordon_warm' => array(
+      'science_showcase_warm' => array(
         'region' => '',
         'status' => 0,
-        'theme' => 'gordon_warm',
+        'theme' => 'science_showcase_warm',
         'weight' => 0,
       ),
       'seven' => array(

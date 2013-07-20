@@ -109,7 +109,7 @@
       <div class="meta-row submitted b-s-b-ccc"><?php print $submitted ?></div>
     <?php endif; ?>
     <div class="meta-row">
-	<?php print l(t('Read more'), 'node/' . $nid, array('attributes' => array('class' => t('node-readmore-link')))); ?>
+	<?php print l(array('Read more'), 'node/' . $nid, array('attributes' => array('class' => array('node-readmore-link')))); ?>
 	</div>
   </div>
 	</div>
